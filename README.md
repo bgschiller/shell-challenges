@@ -1,6 +1,6 @@
 # shell-challenges
 
-I often find ad-hoc shell pipelines to be a fun and efficient way to explore and manipulate data. However, they're not particularly easy to get started with. If you don't already feel comfortable with this hammer, you won't notice when you could solve a problem with it.
+I find ad-hoc shell pipelines to be a fun and efficient way to explore and manipulate data. However, they're not particularly easy to get started with. If you don't already feel comfortable with this hammer, you won't notice when you could solve a problem with it.
 
 In this series, I hope to introduce shell commands so you can start seeing when you might apply them.
 
@@ -12,3 +12,10 @@ In this series, I hope to introduce shell commands so you can start seeing when 
 
 more shell, less egg
 https://apple.stackexchange.com/a/195387/270535
+
+## Ideas for challenges
+Kill a process
+Explore path with tr, add ~/bin
+Redirects
+Find lines with trailing whitespace, fix them
+Count SLOC
