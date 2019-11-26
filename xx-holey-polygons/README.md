@@ -24,6 +24,7 @@ Let's do a couple warm-ups first to get familiar with the tool we'll be using: `
 
 Using `jq`, find the total number of polygons in one of the files. You can check your work
 
+####
 ## answer:
 
 ```bash
