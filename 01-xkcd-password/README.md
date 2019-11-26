@@ -3,7 +3,7 @@
 Prompted by the xkcd comic strip, you decide to make a shell pipeline to suggest passwords consisting of 4 random common words.
 
 <a href="https://xkcd.com/936/">
-  https://imgs.xkcd.com/comics/password_strength.png
+  <img title="To anyone who understands information theory and security and is in an infuriating argument with someone who does not (possibly involving mixed case), I sincerely apologize." src="https://imgs.xkcd.com/comics/password_strength.png">
 </a>
 
 ## Get the words

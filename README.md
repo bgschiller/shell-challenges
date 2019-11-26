@@ -13,6 +13,7 @@ more shell, less egg
 https://apple.stackexchange.com/a/195387/270535
 
 ## Ideas for challenges
+
 - Kill a process
 - Explore path with tr, add ~/bin
 - Redirects
