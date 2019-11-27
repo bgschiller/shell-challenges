@@ -30,7 +30,7 @@ You should already know (but in case you don't)
 ### Preparation:
 
 ```
-brew install fortune cowsay lolcat
+brew install fortune cowsay lolcat jq
 ```
 ---
 
