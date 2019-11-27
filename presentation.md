@@ -1,3 +1,5 @@
+build-lists: true
+
 # [fit] Intermediate Shell
 
 ---
@@ -47,7 +49,7 @@ brew install fortune cowsay lolcat
 
 ### Moving around efficiently
 
-- ctrl-a, ctrl-e, ctrl-w, option-arrow
+- ctrl-a, ctrl-e, ctrl-w, ctrl-u, option-arrow
 - ctrl-x,e to open in $EDITOR
 - up-arrow
 - ctrl-r, `history | grep`
@@ -55,7 +57,7 @@ brew install fortune cowsay lolcat
 - drag files to terminal
 
 ---
-
+[.autoscale: true]
 ### Does the walker choose the $PATH, or the $PATH the walker?
 
 - Make a file called `hello` that has
