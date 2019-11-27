@@ -4,6 +4,13 @@ build-lists: true
 
 ---
 
+### Preparation:
+
+```
+brew install fortune cowsay lolcat jq
+```
+---
+
 ## Prerequisites
 
 You should already know (but in case you don't)
@@ -25,13 +32,7 @@ You should already know (but in case you don't)
 | `tail`    | display the last few lines of a file |
 | `ctrl-C`  | cancel an in-progress command |
 
----
 
-### Preparation:
-
-```
-brew install fortune cowsay lolcat jq
-```
 ---
 
 ### [fit] The Spirit of the command line
